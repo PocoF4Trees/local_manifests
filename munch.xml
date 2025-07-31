@@ -6,13 +6,13 @@
                 clone-depth="1" />
 
         <!-- Device Trees -->
-        <project path="device/xiaomi/munch" name="device_xiaomi_munch" remote="f4trees-github" revision="yaap" />
+        <project path="device/xiaomi/munch" name="device_xiaomi_munch" remote="f4trees-github" revision="16" />
 
         <!-- Vendor Trees-->
         <project path="vendor/xiaomi/munch" name="vendor_xiaomi_munch" remote="f4trees-github" revision="16" />
 
         <!-- Kernel-->
-        <project path="kernel/xiaomi/munch" name="kernel_xiaomi_munch" remote="f4trees-github" revision="yaap-munch" />
+        <project path="kernel/xiaomi/munch" name="kernel_xiaomi_munch" remote="f4trees-github" revision="munch" />
 
         <!-- Firmware-->
         <project path="vendor/xiaomi/munch-firmware" name="vendor_xiaomi_munch-firmware" remote="f4trees-github" />
